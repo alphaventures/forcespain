@@ -1,0 +1,491 @@
+[WARNING] - bot - No module named 'heroku3'
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - No module named 'speedtest'
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - No module named 'speedtest'
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - Can't load plugin: sqlalchemy.dialects:mongodb.srv
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - Can't load plugin: sqlalchemy.dialects:mongodb.srv
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - Can't load plugin: sqlalchemy.dialects:mongodb.srv
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - Can't load plugin: sqlalchemy.dialects:mongodb.srv
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - (psycopg2.OperationalError) connection to server at "44.202.34.8", port 5432 failed: FATAL:  database "postre" does not exist
+
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - (psycopg2.OperationalError) connection to server at "44.202.34.8", port 5432 failed: FATAL:  database "postres" does not exist
+
+(Background on this error at: http://sqlalche.me/e/13/e3q8)
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[WARNING] - bot - Peer id invalid: -100794126501
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @Mdisklinkfun_Ultras_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -100794126501
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @Mdisklinkfun_Ultras_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: 794126501
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @Mdisklinkfun_Ultras_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: 100794126501
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @Mdisklinkfun_Ultras_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: 100794126501
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[WARNING] - bot - Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it 
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @Mdisklinkfun_Ultras_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: 100794126501
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[WARNING] - bot - Peer id invalid: 1001562591315
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @Mdisklinkfun_Ultras_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: 1001562591315
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴊᴏɪɴ SECEND ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴊᴏɪɴ SECEND ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[ERROR] - pyrogram.dispatcher - HTTP Error 403: Forbidden
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/speedtest.py", line 42, in run_speedtest
+    path = wget.download(result["share"])
+  File "/home/anky/.local/lib/python3.10/site-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.10/urllib/request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.10/urllib/request.py", line 525, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.10/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+  File "/usr/lib/python3.10/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+[ERROR] - pyrogram.dispatcher - HTTP Error 403: Forbidden
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/speedtest.py", line 42, in run_speedtest
+    path = wget.download(result["share"])
+  File "/home/anky/.local/lib/python3.10/site-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.10/urllib/request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.10/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.10/urllib/request.py", line 525, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.10/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+  File "/usr/lib/python3.10/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.10/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+[WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.EditMessage")
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 155, in not_joined
+    buttons = fsub_button(client, message)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 126, in fsub_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 155, in not_joined
+    buttons = fsub_button(client, message)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 126, in fsub_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 155, in not_joined
+    buttons = fsub_button(client, message)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 126, in fsub_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 155, in not_joined
+    buttons = fsub_button(client, message)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 126, in fsub_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink3'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink3),
+AttributeError: 'Bot' object has no attribute 'invitelink3'
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink1'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink1),
+AttributeError: 'Bot' object has no attribute 'invitelink1'
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink1'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink1),
+AttributeError: 'Bot' object has no attribute 'invitelink1'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink1'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink1),
+AttributeError: 'Bot' object has no attribute 'invitelink1'
+[ERROR] - pyrogram.dispatcher - 'Bot' object has no attribute 'invitelink1'
+Traceback (most recent call last):
+  File "/home/anky/.local/lib/python3.10/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/anky/.local/lib/python3.10/site-packages/pyromod/listen/listen.py", line 93, in resolve_listener
+    await self.user_callback(client, message, *args)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/start.py", line 133, in start_command
+    out = start_button(client)
+  File "/home/anky/testbot2/File-Sharing-Man/plugins/button.py", line 59, in start_button
+    InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink1),
+AttributeError: 'Bot' object has no attribute 'invitelink1'
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: Games zone
+└ Chat ID: -1001671360425
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: Games zone
+└ Chat ID: -1001671360425
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: Mdisklinkadult
+└ Username: @Mdisklinkfun_Ultras_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: La srientia
+└ Chat ID: -1001953693459
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: Movie 🎥 Netflix 💕 Series
+└ Chat ID: -1001562591315
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: Games zone
+└ Chat ID: -1001671360425
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: 🎥Cómo descargar series de películas 🔴⬇️
+└ Chat ID: -1001554765133
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @1634077347
+Jika @1634077347 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
